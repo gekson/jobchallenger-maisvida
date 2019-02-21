@@ -9,6 +9,10 @@ import javax.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+* @author gekson
+* 
+*/
 @Entity
 @Getter @Setter
 public class Task {

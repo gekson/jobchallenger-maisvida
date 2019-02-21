@@ -1,5 +1,9 @@
 package br.med.maisvida.jobchallenger.entity;
 
+/**
+ * @author gekson
+ * 
+ */
 import java.util.List;
 
 import javax.persistence.CascadeType;
